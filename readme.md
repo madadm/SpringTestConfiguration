@@ -1,0 +1,1 @@
+Lite example how to create context using Spring-framework
