@@ -6,6 +6,5 @@ workspace.xml
 .idea\
 NewSprTest.iml
 target\
-beans.xml
 workspace.xml
 vcs.xml
