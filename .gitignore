@@ -1,0 +1,11 @@
+compiler.xml
+encodings.xml
+misc.xml
+uiDesigner.xml
+workspace.xml
+.idea\
+NewSprTest.iml
+target\
+beans.xml
+workspace.xml
+vcs.xml
